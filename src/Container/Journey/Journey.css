@@ -1,0 +1,39 @@
+.journey__container {
+  padding: 0 7rem 2rem;
+  margin: 0;
+}
+.journey {
+  background: url("../../assets/grasspic.jpg");
+  object-fit: fill;
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 1.5rem 0 0;
+}
+.journey-heading {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 400;
+  text-align: center;
+}
+.journey__name-container {
+  background: rgba(30, 30, 30, 0.9);
+  margin: 2rem 0 0;
+  padding: 1rem 0;
+}
+.journey__name-box {
+  color: #fff;
+  padding: 0 4rem;
+  margin: 0;
+}
+.journey__name-heading {
+  font-size: 1.3rem;
+  font-weight: 400;
+  margin: 0;
+}
+.journey__name-desc {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 300;
+}

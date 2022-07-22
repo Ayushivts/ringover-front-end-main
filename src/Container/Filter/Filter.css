@@ -1,0 +1,10 @@
+.filter__container {
+  padding: 1rem 1.5rem;
+  box-shadow: 0.1rem 0.1rem 1rem #999;
+  border-radius: 0.2rem;
+}
+.filter-heading {
+  font-weight: 500;
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}

@@ -1,0 +1,22 @@
+.team {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 2rem 0;
+}
+.team__heading-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-heading {
+  margin: 0 0 1rem 0;
+  font-size: 1.3rem;
+  font-weight: 450;
+}
+.team__cards-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

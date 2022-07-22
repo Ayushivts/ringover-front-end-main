@@ -1,0 +1,39 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem 2rem;
+  padding: 0;
+  box-shadow: 0.1rem 0.1rem 1rem #999;
+  width: 15rem;
+}
+.card-img {
+  width: 15rem;
+  height: 15rem;
+  object-fit: fill;
+  margin: 0;
+}
+.card__name-box {
+  margin: 0;
+  padding: 0.5rem 0;
+}
+.card__desc-box {
+  margin: 0;
+}
+.card-name {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.card-desc {
+  margin: 0;
+  font-weight: 400;
+}
+.card__social-box {
+  margin: 0;
+  padding: 0;
+}
+.card-social {
+  margin: 1rem;
+}

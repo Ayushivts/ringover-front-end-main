@@ -1,0 +1,20 @@
+.footer {
+  padding: 1rem 0;
+}
+.footer-heading {
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+}
+.footer-social-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.social-link {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  margin: 1rem;
+}
